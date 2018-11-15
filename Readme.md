@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/ImplementSortingforaCustomCellValue/Form1.cs) (VB: [Form1.vb](./VB/ImplementSortingforaCustomCellValue/Form1.vb))
+<!-- default file list end -->
 # How To: Implement Sorting for a Custom Cell Value
 
 
