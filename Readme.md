@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/ImplementSortingforaCustomCellValue/Form1.cs)
+* [nwindDataSet.cs](./CS/ImplementSortingforaCustomCellValue/nwindDataSet.cs)
+* [Program.cs](./CS/ImplementSortingforaCustomCellValue/Program.cs)
+<!-- default file list end -->
 # How To: Implement Sorting for a Custom Cell Value
 
 
